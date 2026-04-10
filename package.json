@@ -1,0 +1,12 @@
+{
+  "name": "who-in-xplore",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "partykit dev",
+    "deploy": "partykit deploy"
+  },
+  "dependencies": {
+    "partykit": "latest",
+    "partysocket": "latest"
+  }
+}

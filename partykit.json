@@ -1,0 +1,5 @@
+{
+  "name": "who-in-xplore",
+  "main": "server.ts",
+  "serve": "public"
+}
